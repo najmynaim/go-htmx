@@ -1,0 +1,11 @@
+#struct is structure : gripping together data to perform records.
+
+#h1 is the handler function no.1, inside it add response and request in a (), then add {} and add inside it variables like tmpl, data collection or struc, execute the data with the template. 
+
+#so a handler function does req and res with templates of data to execute.
+
+# define the handlers at after that outside of {} handlers or bottom of the page.
+
+# after that get the data on the index.html page {{ range. dataname}}
+ add elements and styling and add data input in a {{datainput}}
+{{ end }}
